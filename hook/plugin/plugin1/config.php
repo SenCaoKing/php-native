@@ -1,5 +1,5 @@
 <?php 
  return array (
-  'status' => 0,
-  'title' => '插件1',
+  'status' => 1,
+  'title' => '发送短信',
 );

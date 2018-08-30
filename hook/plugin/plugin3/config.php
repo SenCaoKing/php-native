@@ -1,5 +1,5 @@
 <?php 
  return array (
-  'status' => 0,
-  'title' => '插件3',
+  'status' => 1,
+  'title' => '其他插件',
 );
